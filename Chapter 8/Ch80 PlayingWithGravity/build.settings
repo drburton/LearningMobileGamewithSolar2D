@@ -1,0 +1,11 @@
+-- build.settings for project: Ch8PlayingWithGravity
+
+settings =
+{
+	orientation =
+	{
+		default ="portrait",
+
+	},
+
+}

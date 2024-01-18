@@ -1,0 +1,10 @@
+-- build.settings for project: Ch8WreckingBall
+
+settings =
+{
+	orientation =
+	{
+		default ="landscapeRight",
+	},
+
+}

@@ -1,0 +1,14 @@
+-- build.settings for project: Ch81 Sample Box 2D Physics
+
+settings =
+{
+	orientation =
+	{
+		default ="portrait",
+		supported =
+		{
+			"portrait"
+		},
+	},
+
+}
