@@ -1,0 +1,32 @@
+-- build.settings for project: Ch11 X  Ray Camera
+
+settings =
+{
+	androidPermissions =
+	{
+		"android.permission.CAMERA"
+
+	},
+	iphone =
+	{
+		plist =
+		{
+	        CFBundleIconFile = "icon.png",
+	        CFBundleIconFiles = {
+	           "icon.png", 
+	           "icon@2x.png", 
+
+	        },
+		},
+	},
+	orientation =
+	{
+		default ="portrait",
+		content = "portrait",
+		supported =
+		{
+			"portrait"
+		},
+	},
+
+}

@@ -1,0 +1,14 @@
+-- build.settings for project: BeatBox
+
+settings =
+{
+	orientation =
+	{
+		default ="landscapeRight",
+		supported =
+		{
+			"landscapeLeft"
+		},
+	},
+
+}
