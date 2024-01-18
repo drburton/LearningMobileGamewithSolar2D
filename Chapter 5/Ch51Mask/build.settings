@@ -1,0 +1,10 @@
+-- build.settings for project: Ch5Masks
+
+
+settings = {
+	orientation =
+	{
+		default = "landscapeRight",
+	},
+
+}

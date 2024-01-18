@@ -1,0 +1,14 @@
+-- build.settings for project: MaskandSprites
+
+settings =
+{
+	orientation =
+	{
+		default ="landscapeRight",
+		supported =
+		{
+			"landscapeLeft","landscapeRight"
+		},
+	},
+
+}

@@ -1,0 +1,10 @@
+-- build.settings for project: Ch53 Animated Sprites
+
+settings =
+{
+	orientation =
+	{
+		default ="landscapeRight",
+	},
+
+}
