@@ -1,0 +1,14 @@
+-- build.settings for project: Ch9 Star Explorer
+
+settings =
+{
+	orientation =
+	{
+		default ="portrait",
+		supported =
+		{
+			"portrait"
+		},
+	},
+
+}
