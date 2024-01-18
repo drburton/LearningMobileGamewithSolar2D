@@ -1,2 +1,2 @@
 # LearningMobileGamewithSolar2D
-Code repository for textbook Learning Mobile and Game Development with Solar2D
+Code repository for textbook Learning Mobile App and Game Development with Solar 2D
