@@ -1,0 +1,19 @@
+-- build.settings for project: Ch6CustomFont
+
+settings =
+{
+	orientation =
+	{
+		default ="portrait",
+	},
+
+	iphone =
+	{
+		plist =
+		{
+			UIAppFonts = {"Baroque Script.ttf"}
+
+		},
+	},
+
+}

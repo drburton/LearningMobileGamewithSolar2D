@@ -1,0 +1,15 @@
+-- build.settings for project: Ch7SplashSreen
+
+settings =
+{
+	orientation =
+	{
+		default ="portrait",
+		content = "portrait",
+		supported =
+		{
+			"portrait"
+		},
+	},
+
+}

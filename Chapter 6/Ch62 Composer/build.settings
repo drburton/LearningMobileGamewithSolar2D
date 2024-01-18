@@ -1,0 +1,10 @@
+-- build.settings for project: Ch62Storyboard
+
+settings =
+{
+	orientation =
+	{
+		default ="portrait",
+	},
+
+}
