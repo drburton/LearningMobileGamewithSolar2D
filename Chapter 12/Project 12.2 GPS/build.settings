@@ -1,0 +1,19 @@
+settings =
+{
+	orientation =
+	{
+		default = "portrait",
+		supported = { "portrait" }
+	},
+	android =
+	{
+		usesPermissions =
+		{
+			-- Permission to access the GPS.
+			"android.permission.ACCESS_FINE_LOCATION",
+
+			-- Permission to retrieve current location from WiFi or cellular service.
+			"android.permission.ACCESS_COARSE_LOCATION",
+		},
+	},
+}

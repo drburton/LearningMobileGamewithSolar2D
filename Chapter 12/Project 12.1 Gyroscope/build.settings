@@ -1,0 +1,14 @@
+-- build.settings for project: Ch 12.1 Gyroscope
+
+settings =
+{
+	iphone =
+	{
+		plist =
+		{
+			UIRequiredDeviceCapabilities = "gyroscope"
+
+		},
+	},
+
+}
