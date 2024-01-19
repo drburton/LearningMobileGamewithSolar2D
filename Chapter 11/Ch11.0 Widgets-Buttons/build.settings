@@ -1,0 +1,14 @@
+-- build.settings for project: Ch11.0 Widgets
+
+settings =
+{
+	orientation =
+	{
+		default ="portrait",
+		supported =
+		{
+			"portrait"
+		},
+	},
+
+}
