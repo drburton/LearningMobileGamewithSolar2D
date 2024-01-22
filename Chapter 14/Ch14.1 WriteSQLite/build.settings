@@ -1,0 +1,14 @@
+-- build.settings for project: Ch14.1 Write SQLite
+
+settings =
+{
+	orientation =
+	{
+		default ="portrait",
+		supported =
+		{
+			"portrait","portraitUpsideDown"
+		},
+	},
+
+}
