@@ -20,7 +20,8 @@ local function loadButtonPress (event)
       sink = ltn12.sink.file(myFile),
 }
  		testImage = display.newImage("LearningLua.jpg", system.DocumentsDirectory,10,30);
-         testImage.x = display.contentWidth/2                                                                                                                                                                                                                                                                                                               
+        testImage.x = display.contentWidth/2  
+		testImage:scale(.2,.2)                                                                                                                                                                                                                                                                                                             
 end
 
 -- Load Button
