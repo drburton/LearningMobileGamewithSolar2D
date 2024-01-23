@@ -12,6 +12,7 @@ local widget = require("widget")
  		local testImage = display.newImage("LearningLua.jpg", system.DocumentsDirectory,display.contentCenterX,display.contentHeight);
         testImage.x = display.contentWidth/2
         testImage.y = display.contentCenterY
+		testImage:scale(.2,.2)
  	end
  end
  
