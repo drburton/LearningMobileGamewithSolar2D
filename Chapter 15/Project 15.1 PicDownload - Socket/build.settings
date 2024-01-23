@@ -1,0 +1,11 @@
+-- build.settings for project: Ch15 Pic Download
+
+settings =
+{
+	androidPermissions =
+	{
+		"android.permission.INTERNET"
+
+	}
+
+}
