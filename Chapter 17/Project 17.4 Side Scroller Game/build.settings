@@ -1,0 +1,14 @@
+-- build.settings for project: SideScroller
+
+settings =
+{
+	orientation =
+	{
+		default ="landscapeRight",
+		supported =
+		{
+			"landscapeLeft","landscapeRight"
+		},
+	},
+
+}
